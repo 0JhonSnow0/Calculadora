@@ -1,7 +1,16 @@
-## CALCULADORA
-Esta aplicacion de calculadora lo desarrollo la inteligencia artificial CHATGPT con librerias de TKINTER
-Este programa cuenta con la ayuda de cambiar de temas a 4 colores diferentes
-La calculadora cuenta con lo basico en matematicas, como sumna, resta, multiplicar y dividir.
-Tambien cuenta con la ayuda de borrar/limpiar(C) pantalla y si se realiza una operacion, se puede continuar sobre ese resultado.
+Calculadora
+
+Esta aplicación de calculadora fue desarrollada en Python utilizando la biblioteca Tkinter para la creación de la interfaz gráfica.
+
+El proyecto incluye un sistema de personalización que permite cambiar entre 4 temas de colores diferentes, ofreciendo una experiencia visual más atractiva para el usuario.
+
+La calculadora cuenta con las operaciones matemáticas básicas:
+
+Suma (+)
+Resta (-)
+Multiplicación (*)
+División (/)
+
+Además, incorpora un botón de limpieza (C) para borrar la pantalla y permite continuar realizando operaciones utilizando el resultado obtenido previamente.
 
 <img width="409" height="630" alt="Calculadora" src="https://github.com/user-attachments/assets/a147e1bc-804f-45cc-9a8b-4cf2c61dcb25" />
