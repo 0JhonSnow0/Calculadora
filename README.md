@@ -1,4 +1,4 @@
-Calculadora
+## Calculadora
 
 Esta aplicación de calculadora fue desarrollada en Python utilizando la biblioteca Tkinter para la creación de la interfaz gráfica.
 
@@ -6,10 +6,10 @@ El proyecto incluye un sistema de personalización que permite cambiar entre 4 t
 
 La calculadora cuenta con las operaciones matemáticas básicas:
 
-Suma (+)
-Resta (-)
-Multiplicación (*)
-División (/)
+- Suma (+)
+- Resta (-)
+- Multiplicación (*)
+- División (/)
 
 Además, incorpora un botón de limpieza (C) para borrar la pantalla y permite continuar realizando operaciones utilizando el resultado obtenido previamente.
 
