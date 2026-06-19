@@ -5,11 +5,10 @@ Esta aplicación de calculadora fue desarrollada en Python utilizando la bibliot
 El proyecto incluye un sistema de personalización que permite cambiar entre 4 temas de colores diferentes, ofreciendo una experiencia visual más atractiva para el usuario.
 
 La calculadora cuenta con las operaciones matemáticas básicas:
-
-- Suma (+)
-- Resta (-)
-- Multiplicación (*)
-- División (/)
+[x] Suma (+)
+[x] Resta (-)
+[x] Multiplicación (*)
+[x] División (/)
 
 Además, incorpora un botón de limpieza (C) para borrar la pantalla y permite continuar realizando operaciones utilizando el resultado obtenido previamente.
 
