@@ -1,4 +1,4 @@
-CALCULADORA
+## CALCULADORA
 Esta aplicacion de calculadora lo desarrollo la inteligencia artificial CHATGPT con librerias de TKINTER
 Este programa cuenta con la ayuda de cambiar de temas a 4 colores diferentes
 La calculadora cuenta con lo basico en matematicas, como sumna, resta, multiplicar y dividir.
